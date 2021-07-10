@@ -1,0 +1,61 @@
+body {
+
+
+background-color: #E98580;
+
+}
+header {
+
+color:  #ffff;
+background-color:#053742;
+border: 4 px brown ;
+border-radius: 5px;
+text-align: center;
+
+height: 50px;
+
+}
+.container{
+  width: 1000px;
+background-color: brown;
+margin: 0 auto;
+
+
+}
+
+
+h2,h3{
+
+
+  color :#66DE93;
+}
+h2,h4  {
+
+  color: white;
+}
+aside {
+width: 250px;
+float: left;
+padding-left: 10px:
+
+}
+article {
+
+  width: 700px;
+  float: right;
+}
+input, textarea ,button {
+
+  display: block;
+}
+
+
+
+
+
+
+footer {
+
+
+  float: bottom;
+}
